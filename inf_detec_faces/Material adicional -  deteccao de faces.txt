@@ -1,0 +1,19 @@
+Material adicional -  detecção de faces
+
+Material complementar
+
+Abaixo você pode acessar materiais adicionais caso queira mais informações sobre detecção de faces
+
+https://learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
+
+https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
+
+https://inria.hal.science/inria-00548512/document
+
+https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+
+https://www.ijirset.com/upload/2017/july/92_Face.pdf
+
+https://dlib.net/python/index.html
+
+https://docs.opencv.org/4.x/
