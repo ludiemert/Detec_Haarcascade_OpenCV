@@ -1,0 +1,3 @@
+arquivo muito grande entao precisa criar esse arquivo
+
+shape_predictor_68_face_landmarks.dat

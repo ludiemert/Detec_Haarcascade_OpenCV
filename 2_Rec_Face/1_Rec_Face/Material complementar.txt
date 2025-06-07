@@ -1,0 +1,20 @@
+Material complementar
+
+OpenCV documentation
+
+Dlib documentation
+
+Face Recognition: A Literature Review
+
+LBPH paper 1, LBPH paper 2, LBPH paper 3
+
+Face Recognition with Dlib
+
+Jones
+
+
+https://docs.opencv.org/4.x/
+https://dlib.net/python/index.html
+https://www.researchgate.net/publication/233864740_Face_Recognition_A_Literature_Review
+https://www.researchgate.net/publication/333511197_LBPH-based_Enhanced_Real-Time_Face_Recognition
+https://pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
